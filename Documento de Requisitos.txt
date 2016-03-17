@@ -18,3 +18,10 @@ RN002: El sistema debe manejar datos de manera segura
 RN003: El sistema debe de estar disponible todo el tiempo
 
 _______________________________________________________
+
+Lista de Casos de Uso:
+
+CU001: Registrar Alumnos
+CU002: Imprimir Kardex
+CU003: Cargar materias
+______________________________________________________
