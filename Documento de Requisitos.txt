@@ -25,3 +25,7 @@ CU001: Registrar Alumnos
 CU002: Imprimir Kardex
 CU003: Cargar materias
 ______________________________________________________
+
+Conclusiones
+
+Este sistema sirve para gestionar los servicios del departamento de control escolar 
